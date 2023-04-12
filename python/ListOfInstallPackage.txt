@@ -1,0 +1,8 @@
+package-->project--->+
+
+1.opencv-python
+2.tensorflow
+3.mtcnn
+4.pillow
+5.mysql-connector?
+6.torch
